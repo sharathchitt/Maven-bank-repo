@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("This is the second line");
+        System.out.println("Testing if Poll SCM is working !");
     }
 }
